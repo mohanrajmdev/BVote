@@ -42,6 +42,10 @@
   flex-wrap: wrap;
   margin:10px;
 }
+::selection{
+  background-color: antiquewhite;
+  color: black;
+}
 .para{
   margin:5px;
 }
