@@ -22,7 +22,7 @@ To get started with Vote, follow these simple steps:
 
 1. **Clone the Repository**: Begin by cloning this repository to your local machine using the following command:
 
-`git clone https://github.com/waseem0605/BVote`
+`git clone https://github.com/mohanrajmdev/BVote.git`
 
 2. **Install Dependencies**: Navigate to the project directory and install the necessary dependencies:
 
