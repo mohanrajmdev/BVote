@@ -1,5 +1,9 @@
 # BVote: Secure E-Voting with Blockchain Technology
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mohanrajmdev_BVote&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=mohanrajmdev_BVote)
+
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=mohanrajmdev_BVote)
+
 ![BVote Logo](https://raw.githubusercontent.com/waseem0605/BVote/main/vote_logo.png)
 
 Welcome to **BVote**, a cutting-edge e-voting platform powered by blockchain technology. With Vote, you can revolutionize the way elections are conducted, ensuring transparency, security, and accessibility like never before.
